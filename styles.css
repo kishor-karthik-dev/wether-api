@@ -1,0 +1,15 @@
+body{
+    border-color: rgb(20, 15, 15);
+    margin: 0% auto;
+    text-align: center;
+}
+
+div{
+    background-color: rgb(124, 246, 173);
+    border: solid 1px black;
+}
+.card-title{
+    background-color: rgb(96, 95, 95);
+    color: whitesmoke;
+    font-style: italic;
+}
